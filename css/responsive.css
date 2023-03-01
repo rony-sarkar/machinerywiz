@@ -194,6 +194,19 @@
         margin-top: 10px;
         border-top: 5px solid #000;
     }
+
+    .csslider > ul {
+        display: none;
+    }
+
+    .csslider > .navigation label {
+        width: 100%;
+        height: auto;
+    }
+
+    .csslider > .navigation label img {
+        position: inherit;
+    }
 }
 
 /***** Wide Mobile Layout *****/
