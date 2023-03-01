@@ -386,6 +386,7 @@ img {
     font-weight: 600;
     margin-top: 30px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .box-content {
